@@ -1,0 +1,38 @@
+[
+  {
+    "imagen": "https://www.venex.com.ar/mods/html/fil/Model/ProductGrouper/123/62c6c0ed8a71b-sin-titulo-2.png",
+    "nombre": "GABINETE COOLER MASTER HAF 500 WHITE",
+    "precio": 187709,
+    "cantidad": 1
+  },
+  {
+    "imagen": "https://www.venex.com.ar/products_images/1692211992_adata-1.png",
+    "nombre": "CARRY DISK ESTERNO ADATA EC700G M2 PCIE SATA P/SSD",
+    "precio": 51239,
+    "cantidad": 1
+  },
+  {
+    "imagen": "https://www.venex.com.ar/products_images/1662724167_moni3.png",
+    "nombre": "MONITOR 27 GIGABYTE G27FC-SA VA FHD 165HZ",
+    "precio": 395289,
+    "cantidad": 1
+  },
+  {
+    "imagen": "https://www.venex.com.ar/products_images/1695395347_amd-1.png",
+    "nombre": "MICROPROCESADOR CPU AMD RYZEN 9 7900 X3D RAPHAEL ZEN4 AM5",
+    "precio": 995579,
+    "cantidad": 1
+  },
+  {
+    "imagen": "https://www.venex.com.ar/products_images/1662383616_intel_i5_12ca.png",
+    "nombre": "MICROPROCESADOR INTEL CORE I5 12400F ALDERLAKE 4.40GHZ 18MB LGA1700",
+    "precio": 263529,
+    "cantidad": 1
+  },
+  {
+    "imagen": "https://www.venex.com.ar/products_images/1677251476_e27.png",
+    "nombre": "PC AIO LITE BANGHO E27 I5 12400 8GB SSD 480GB 27 FREE",
+    "precio": 1163939,
+    "cantidad": 1
+  }
+]
